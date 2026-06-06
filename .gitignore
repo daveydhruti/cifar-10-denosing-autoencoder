@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data & weights
+data/
+*.pth
+
+# Outputs
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+venv/
